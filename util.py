@@ -184,3 +184,4 @@ class Util:
             for key in configs[config]:
                 if key == 'commands':
                     print(configs[config][key])
+// This is a test
